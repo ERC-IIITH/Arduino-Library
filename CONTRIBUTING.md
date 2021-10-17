@@ -26,6 +26,8 @@ git clone <repo_url>
 ```
 git checkout -b <branch_name>
 ```
+Note: This should always be done from the main branch which is up-to-date with upstream.
+
 3. Write your code in the new branch.
 4. Add the changes to the staging area using 
 ```
