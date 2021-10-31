@@ -5,10 +5,6 @@
  
 
 
-Sensor Image
-
-![image](https://user-images.githubusercontent.com/58338319/139586477-31839c5f-7ddd-4f7b-8dd7-c76e03d82908.png)
-
 
 
 Sensor Features
